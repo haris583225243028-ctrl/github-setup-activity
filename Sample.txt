@@ -1,0 +1,7 @@
+GitHub Setup Activity
+
+Name: Hari
+Department: (AI&DS)
+Year: (1st year)
+
+This is my first repository created for the GitHub setup activity.
